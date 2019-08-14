@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quản Lý Thu Chi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Quản Lý Thu Chi</string>
+    <string name="nav_header_subtitle">thonglvps09105@fpt.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_KhoanThu">Khoản Thu</string>
+    <string name="menu_KhoanChi">Khoản Chi</string>
+    <string name="menu_ThongKe">Thống Kê</string>
+    <string name="menu_GioiThieu">Giới thiệu</string>
+    <string name="menu_Thoat">Thoát</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
